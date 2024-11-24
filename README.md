@@ -20,7 +20,7 @@ Ensure Python 3.x is installed along with the following libraries:
 ## Installation
 
 **Run the application:**
-python image_resizer.py
+python app.py
 
 **Select an image file using the Browse button.
 Enter the desired width and height.
